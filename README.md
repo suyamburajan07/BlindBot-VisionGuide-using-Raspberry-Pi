@@ -24,7 +24,7 @@ This folder contains the supporting materials for the manuscript:
    > - No static JSON or `.txt` file is stored for news.  
    > - Please supply your own API key by replacing `YOUR_API_KEY` in the script
 
-4. **/requirements.txt**
+4. **requirements.txt**
    - In the requirements.txt file, not all listed libraries are in use. I’ve tried and replaced some of them with alternatives. So, if you're planning to use the code, please keep that in mind.
 
 
