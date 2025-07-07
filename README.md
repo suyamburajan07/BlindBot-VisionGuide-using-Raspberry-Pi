@@ -7,7 +7,8 @@ This folder contains the supporting materials for the manuscript:
 
 1. **/model/**
    - Model files used for the image captioning module.
-   - Includes `.safetensors` model files and a `.json` files. 
+   - Includes `.safetensors` model files and a `.json` files.
+   - https://drive.google.com/drive/folders/1ruwd5Alc_phzwP-Tu_ruFBW_RC5UtlUO?usp=drive_link 
 
 2. **/code/**
    - Combined Python script: `Code.py`
